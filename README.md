@@ -6,7 +6,7 @@ Authors: Soroush Mahjoubi, Vineeth Venugopal, Ipek Bensu Manav, Hessam Azarijafa
 
 Cement production is a significant contributor to global greenhouse gas (GHG) emissions, primarily due to the production of clinker. This project aims to reduce these emissions by expanding the repertoire of secondary and natural cementitious precursors through data-driven, machine learning methods.
 
-We developed models to predict the reactivity of cementitious materials and systematically identified potential substitutes for clinker, including secondary materials like construction and demolition wastes, and natural precursors such as rhyolite and basalt. Our approach combines large language models (LLMs) and multi-task neural networks to predict reactivity metrics, enabling the discovery of new materials that can reduce the GHG intensity of cement production.
+We developed models to predict the reactivity of cementitious materials and systematically identified potential substitutes for clinker, including secondary materials like construction and demolition wastes, and natural precursors such as rhyolite. Our approach combines large language models (LLMs) and multi-task neural networks to predict reactivity metrics, enabling the discovery of new materials that can reduce the GHG intensity of cement production.
 
 Repository Contents
 The repository is organized into Jupyter notebooks that sequentially perform the tasks described in the paper:
